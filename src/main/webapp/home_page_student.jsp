@@ -91,23 +91,7 @@ color:#484848;}</style>
   </div>
 </a>
 
-       <a href="https://lab-management-g34v.onrender.com/">
-  <div class="card">
-    <img src="assets/lab.png" alt="Image">
-    <div class="card-text">
-       <a href="https://lab-management-g34v.onrender.com/">Lab management</a> 
-    </div>
-  </div>
-  </a>
-  
-  <a href="https://placements-1.onrender.com/">
-  <div class="card">
-    <img src="assets/job.jpg" alt="Image">
-    <div class="card-text">
-       <a href="https://placements-1.onrender.com/">Job portal</a> 
-    </div>
-  </div>
-  </a>
+     
 </div>
 
 
@@ -126,7 +110,7 @@ color:#484848;}</style>
 </div>
 
 <div class="bottom-footer">
-  <p>Copyright © 2024 Campus Connect</p>
+  <p>Copyright Å  2024 Campus Connect</p>
 </div>
 
 
