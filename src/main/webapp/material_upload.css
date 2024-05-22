@@ -1,0 +1,50 @@
+@charset "ISO-8859-1";
+
+.f{
+    position:absolute;
+    width:300px;
+    margin-top:70px;
+    margin-left:320px;
+}
+
+.navbar{
+    margin-top:10px;
+    width:100%;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    gap:60px;
+    background-color: white;
+    zoom:180%;
+    
+.middle_nav{
+    
+    img{
+        width:40px;
+        height:40px;
+        margin-left:0;
+    }
+    .cc{
+        font-size: 8px;
+        color:rgb(9, 16, 116);
+        font-weight:500;
+    }
+
+
+}
+
+    
+    
+    ul{
+
+        list-style: none;
+        display:flex;
+        gap:20px;
+        li{
+            a{
+                font-size: 10px;
+            }
+
+        }
+    }
+}

@@ -1,0 +1,139 @@
+@charset "ISO-8859-1";
+body{
+    background-color:rgb(255, 255, 255);
+    width:480px;
+    margin:auto;
+}
+.f{
+    position:absolute;
+    width:170px;
+    margin-top:40px;
+    margin-left:288px;
+}
+
+.navbar{
+    margin-top:10px;
+    width:100%;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    gap:165px;
+    background-color: white;
+    
+.middle_nav{
+    
+    img{
+        width:40px;
+        height:40px;
+        margin-left:0;
+    }
+    .cc{
+        font-size: 8px;
+        color:rgb(9, 16, 116);
+        font-weight:500;
+    }
+
+
+}
+
+    
+    
+    ul{
+
+        list-style: none;
+        display:flex;
+        gap:20px;
+        li{
+            a{
+                font-size: 10px;
+            }
+
+        }
+    }
+}
+
+
+.container{
+   
+}
+.cards{
+    display:flex;
+    gap:10px;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.card {
+    width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: rgb(59, 112, 131);
+    margin-left:0;
+    margin-top:30px;
+  }
+  .card img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  .card-text {
+    text-align: center;
+    padding: 10px;
+    background-color: #f0f0f0;
+  }
+  .card-text a {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+  }
+
+  .foot{
+   
+    width:410px;
+    
+    
+    background-color: #dbdbdb;
+    margin:auto;
+    margin-top:5px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    padding-bottom: 5px;;
+    
+.top-footer{
+    
+    
+    ul{
+        
+        margin-left: 18%;
+
+        list-style: none;
+        display:flex;
+        gap:20px;
+        li{margin-top: 10px;;
+            a{
+                font-size: 10px;
+            }
+
+        }
+    }}
+
+    .f1{
+        width:300px;
+    position: absolute; 
+    margin-left:55px;
+margin-top:40px; }
+
+    .bottom-footer{
+        
+        p{
+            font-size:10px;
+            text-align: center;
+            
+}
+}
+}
+
+
